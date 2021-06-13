@@ -1,0 +1,39 @@
+body{
+  background-color: black;
+  text-align: center;
+
+}
+
+.Title{
+  font-family: Lobster;
+  color: red;
+  margin:0;
+  padding: 0;
+}
+
+h1 {
+margin-bottom: -15px;
+  font-size: 110px;
+}
+
+p{
+  margin-bottom: 10px;
+
+}
+
+.Dice{
+  color: white;
+  font-family: Stint Ultra Condensed,cursive;
+  display: inline-block;
+font-size: 40px;
+padding: 5px;
+}
+hr{
+  margin-top:10px;
+  max-width: none;
+  border:solid;
+  color:red;
+}
+footer{
+  color: red;
+}
